@@ -12,6 +12,15 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 a {
     text-decoration: none;
     color: #999;
